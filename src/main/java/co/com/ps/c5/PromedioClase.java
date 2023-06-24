@@ -6,6 +6,7 @@ public class PromedioClase {
 
         public static void main(String[] args) {
             int numEstudiantes = 5;
+
             int[] notas = new int[numEstudiantes];
             Scanner scanner = new Scanner(System.in);
 

@@ -21,8 +21,5 @@ public class Ciclos {
             contador++;
         } while (contador < 5);
 
-
-
-
     }
 }
